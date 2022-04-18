@@ -1,1 +1,1 @@
-# somuchwowlearning
+# Resources for user study
