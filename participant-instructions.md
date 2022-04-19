@@ -20,7 +20,7 @@ The moderator will guide you or you can reference [instructions on sharing your 
   
 *Pause when you have completed this step. The moderator will prompt you when it is time to start the next task.*  
 
-**Feedback:** [answer the questions for Task 1](https://forms.office.com/r/Rq03rZZDmS). Pause and notify the moderator when you have answered question 1.  
+**Feedback:** answer the questions for Task 1. Pause and notify the moderator when you have answered question 1.  
 
 ## Task 2: explore the studio  
 For this next phase, we would like you to explore Azure ML as if you were starting to use a new platform for the first time.  
@@ -38,7 +38,7 @@ Think aloud (examples)
 
 *Pause when you have completed this step. The moderator will prompt you when it is time to start the next task.*  
 
-**Feedback:** [answer the questions for Task 2](https://forms.office.com/r/Rq03rZZDmS). Pause and notify the moderator when you have answered questions 2-4.
+**Feedback:** answer the questions for Task 2. Pause and notify the moderator when you have answered questions 2-4.
 
 ## Task 3: use the product  
 Now, we would like you to complete a series of tasks that we think would be important for a user getting started with Azure ML.  
@@ -60,7 +60,7 @@ Think aloud (examples)
   
 *Pause when you have completed this step. The moderator will prompt you when it is time to start the next task.*  
 
-**Feedback:** [answer the questions for Task 3](https://forms.office.com/r/Rq03rZZDmS). Click “submit” on the form once you have answered questions 5-7 and notify the moderator.
+**Feedback:** answer the questions for Task 3. Click “submit” on the form once you have answered questions 5-7 and notify the moderator.
 
 
 ## Activity complete
